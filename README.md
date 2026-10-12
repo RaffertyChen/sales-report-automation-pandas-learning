@@ -19,7 +19,7 @@ The finished report is ready in a few seconds instead of about an hour of manual
 
 ## Handles messy files
 
-Real exports are rarely clean. `messy.py` shows the script coping with:
+Real exports are rarely clean. `b4_messy.py` shows the script coping with:
 
 - a title row above the column names
 - stray spaces after customer IDs
@@ -36,6 +36,6 @@ Real exports are rarely clean. `messy.py` shows the script coping with:
 ## Files
 
 - `sales_summary.py`: builds the report
-- `b4_messy.py`: cleans a messy version of the orders file
+- `messy.py`: cleans a messy version of the orders file
 - `orders.csv`, `customers.csv`, `orders_messy.csv`: sample data (made up)
 - `sales_report.xlsx`: an example of the finished report
