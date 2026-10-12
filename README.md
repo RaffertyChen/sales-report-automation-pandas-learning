@@ -36,6 +36,6 @@ Real exports are rarely clean. `messy.py` shows the script coping with:
 ## Files
 
 - `sales_summary.py`: builds the report
-- `messy.py`: cleans a messy version of the orders file
+- `b4_messy.py`: cleans a messy version of the orders file
 - `orders.csv`, `customers.csv`, `orders_messy.csv`: sample data (made up)
 - `sales_report.xlsx`: an example of the finished report
